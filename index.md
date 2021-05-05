@@ -11,7 +11,7 @@
 
 ### Animation of running model
 
-![GIF](https://github.com/hpwonder1/Geography-Programming-Courses/blob/main/video.gif)   
+![GIF](https://github.com/hpwonder1/Geography-Programming-Courses/blob/main/video.gif?raw=true)   
 
 ## Code Link
 
