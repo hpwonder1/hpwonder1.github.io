@@ -8,7 +8,7 @@ The code of the model includes: agent code, model code and environment code. For
 
 ### Animation of running model
 
-![image](https://github.com/hpwonder1/Geography-Programming-Courses/blob/main/video.gif)   
+![GIF](https://github.com/hpwonder1/Geography-Programming-Courses/blob/main/video.gif)   
 
 ## Code Link
 
