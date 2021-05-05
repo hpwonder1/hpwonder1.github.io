@@ -6,7 +6,7 @@
 
 ### Animation of running model
 
-![image](https://github.com/YourAcountName/ProjectName/blob/master/GIFName.gif)   
+![image](https://github.com/hpwonder1/Geography-Programming-Courses/blob/main/video.gif)   
 
 ## Code Link
 
